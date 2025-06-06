@@ -2,7 +2,6 @@ package com.Piyush.Journaling_app.service;
 
 import com.Piyush.Journaling_app.entity.User;
 import com.Piyush.Journaling_app.repository.UserRepository;
-import com.Piyush.Journaling_app.repository.UserRepository;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
